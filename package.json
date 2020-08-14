@@ -1,0 +1,19 @@
+{
+  "name": "cpmath",
+  "version": "1.0.1",
+  "description": "A Modular Mathematics library",
+  "main": "cpmath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prskid1000/CPMath.git.git"
+  },
+  "author": "Prithwiraj Samanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prskid1000/CPMath.git/issues"
+  },
+  "homepage": "https://github.com/prskid1000/CPMath.git#readme"
+}
