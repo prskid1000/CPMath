@@ -1,2 +1,2 @@
 # CPMath
-A NPM utility library for CP
+A NPM mathematics library for CP
