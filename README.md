@@ -14,3 +14,6 @@ A NPM mathematics library for CP
 9)Euler Totient<br>
 10)Zfunction<br>
 11)...more to come<br>
+
+## NPM Link
+https://www.npmjs.com/package/cpmath
