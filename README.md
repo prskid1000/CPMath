@@ -17,7 +17,8 @@ git clone https://github.com/your-username/CPMath.git
 ```bash
 git checkout -b branch-name
 ```
-* Add any algorithm in JS which is not available in cpmath.js
+* Add any mathematical algorithm or function in JS which is not available in cpmath.js
+* You have to write a function and add it to the cpmath.js.
 * Add the name of algorithm you have coded in the README.md
 * Commit and push
 
