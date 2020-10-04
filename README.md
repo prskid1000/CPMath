@@ -73,7 +73,7 @@ https://www.npmjs.com/package/cpmath
 Repository status([badge](https://img.shields.io/badge/)):
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 ![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Version](https://img.shields.io/badge/version-1.1.3-green)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Getting started
