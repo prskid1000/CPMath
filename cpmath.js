@@ -328,6 +328,10 @@ function sigmoid(z) {
   return 1/(1+Math.exp(-z))
 }
 
+function softmax(ar) {
+	ar.map( x => Math.exp(x) / (ar.map( y => Math.exp(y))).reduce( (a,b) => a+b))
+}
+
 module.exports.stein_gcd = function(a, b)
 {
   return stein_gcd(a, b)
@@ -415,4 +419,8 @@ module.exports.power = function(x, n)
 
 module.exports.sigmoid = function(z) {
   return sigmoid(z)
+}
+
+module.exports.softmax = function(ar) {
+	return softmax(ar)
 }

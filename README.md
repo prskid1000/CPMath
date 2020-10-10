@@ -6,7 +6,7 @@
 ![Weekly Downloads](https://img.shields.io/npm/dw/cpmath)
 <br>A NPM mathematics library for CP
 
-## Algotihm List
+## Algorithm List
 
 1)Seive<br>
 2)Power with Mod<br>
@@ -20,7 +20,8 @@
 10)Zfunction<br>
 11)Stein's GCD<br>
 12)Sigmoid<br>
-13)...more to come<br>
+13)Softmax<br>
+14)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpmath
