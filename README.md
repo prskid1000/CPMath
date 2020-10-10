@@ -18,8 +18,9 @@
 8)Diphantine<br>
 9)Euler Totient<br>
 10)Zfunction<br>
-11)Stein's GCD<b>
-12)...more to come<br>
+11)Stein's GCD<br>
+12)Sigmoid<br>
+13)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpmath

@@ -304,6 +304,35 @@ function zfunction(s)
   return z;
 }
 
+function stein_gcd(a, b)
+{
+    if(a == 0) return b;
+    if(b == 0) return a;
+    var k;
+    for(k = 0; ((a | b) && 1) == 0; ++k)
+    {
+      a >>= 1;
+      b >>= 1;
+    }
+    while((a > 1) == 0) a >>= 1;
+    do
+    {
+      while((b > 1) == 0) b >>= 1;
+      if (a > b) swap(a, b);
+      b = (b - a);
+    } while(b != 0);
+    return a << k;
+}
+
+function sigmoid(z) {
+  return 1/(1+Math.exp(-z))
+}
+
+module.exports.stein_gcd = function(a, b)
+{
+  return stein_gcd(a, b)
+}
+
 module.exports.zfunction = function(s)
 {
   return  zfunction(s);
@@ -382,35 +411,6 @@ module.exports.getDivisor = function(n)
 module.exports.power = function(x, n)
 {
   return power(x, n);
-}
-
-function stein_gcd(a, b)
-{
-    if(a == 0) return b;
-    if(b == 0) return a;
-    var k;
-    for(k = 0; ((a | b) && 1) == 0; ++k)
-    {
-      a >>= 1;
-      b >>= 1;
-    }
-    while((a > 1) == 0) a >>= 1;
-    do
-    {
-      while((b > 1) == 0) b >>= 1;
-      if (a > b) swap(a, b);
-      b = (b - a);
-    } while(b != 0);
-    return a << k;
-}
-
-module.exports.stein_gcd = function(a, b)
-{
-  return stein_gcd(a, b)
-}
-
-function sigmoid(z) {
-  return 1/(1+Math.exp(-z))
 }
 
 module.exports.sigmoid = function(z) {
