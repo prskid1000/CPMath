@@ -408,3 +408,11 @@ module.exports.stein_gcd = function(a, b)
 {
   return stein_gcd(a, b)
 }
+
+function sigmoid(z) {
+  return 1/(1+Math.exp(-z))
+}
+
+module.exports.sigmoid = function(z) {
+  return sigmoid(z)
+}
