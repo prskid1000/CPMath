@@ -4,7 +4,7 @@
 ![Total Downloads](https://img.shields.io/npm/dt/cpmath)
 ![Monthly Downloads](https://img.shields.io/npm/dm/cpmath)
 ![Weekly Downloads](https://img.shields.io/npm/dw/cpmath)
-A NPM mathematics library for CP
+<br>A NPM mathematics library for CP
 
 ## Algotihm List
 
