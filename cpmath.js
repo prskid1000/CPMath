@@ -329,12 +329,44 @@ function sigmoid(z) {
 }
 
 function softmax(ar) {
-	ar.map( x => Math.exp(x) / (ar.map( y => Math.exp(y))).reduce( (a,b) => a+b))
+	return ar.map( x => Math.exp(x) / (ar.map( y => Math.exp(y))).reduce( (a,b) => a+b));
+}
+
+function tanh(x)
+{
+  return 2*sigmoid(2*x) -1 1;
+}
+
+function relu(x){
+  return max(0, x);
+}
+
+function leaky_relu(x){
+  if(x >= 0)
+  {
+    return x;
+  }
+  else return 0.01*x;
+}
+
+module.exports.leaky_relu = function(x)
+{
+  return leaky_relu(x);
+}
+
+module.exports.relu = function(x)
+{
+  return relu(x);
+}
+
+module.exports.tanh = function(x)
+{
+  return tanh(x);
 }
 
 module.exports.stein_gcd = function(a, b)
 {
-  return stein_gcd(a, b)
+  return stein_gcd(a, b);
 }
 
 module.exports.zfunction = function(s)
@@ -418,9 +450,9 @@ module.exports.power = function(x, n)
 }
 
 module.exports.sigmoid = function(z) {
-  return sigmoid(z)
+  return sigmoid(z);
 }
 
 module.exports.softmax = function(ar) {
-	return softmax(ar)
+	return softmax(ar);
 }

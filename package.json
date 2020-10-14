@@ -1,10 +1,13 @@
 {
   "name": "cpmath",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "A Modular Mathematics library",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prskid1000/CPMath.git.git"
+  },
+  "scripts": {
+    "relu": "./Examples/ReLU.js"
   },
   "author": "Prithwiraj Samanta",
   "license": "ISC",

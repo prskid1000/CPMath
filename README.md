@@ -21,7 +21,10 @@
 11)Stein's GCD<br>
 12)Sigmoid<br>
 13)Softmax<br>
-14)...more to come<br>
+14)Tanh<br>
+15)ReLU<br>
+16)Leaky ReLU<br>
+17)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpmath
