@@ -24,7 +24,10 @@
 14)Tanh<br>
 15)ReLU<br>
 16)Leaky ReLU<br>
-17)...more to come<br>
+17)nCr using Fermat's theorem<br>
+18)PollardRho Factorization<br>
+20)Dixon Factorization<br>
+21)...more to come<br>
 
 ## NPM Link
 https://www.npmjs.com/package/cpmath
