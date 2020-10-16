@@ -26,7 +26,8 @@
 16)Leaky ReLU<br>
 17)nCr using Fermat's theorem<br>
 18)PollardRho Factorization<br>
-20)Dixon Factorization<br>
+19)Dixon Factorization<br>
+20)Rencontres Number (Counting partial derangements)<br>
 21)...more to come<br>
 
 ## NPM Link
