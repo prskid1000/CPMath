@@ -26,7 +26,7 @@
     "softmax": "node ./Examples/softmax.js",
     "stein_s_gcd": "node ./Examples/stein_s_gcd.js",
     "tanh": "node ./Examples/tanh.js",
-    "zfunction": "node ./Examples/zfunction.js",
+    "zfunction": "node ./Examples/zfunction.js"
   },
   "author": "Prithwiraj Samanta",
   "license": "ISC",
