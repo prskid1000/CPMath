@@ -15,7 +15,7 @@
 5)Finding nth Fibonacci in log(n)<br>
 6)Karatsuba Multiplication<br>
 7)Extended Euclidean Algorithm<br>
-8)Diphantine<br>
+8)Diophantine Equation(Initial Solution)<br>
 9)Euler Totient<br>
 10)Zfunction<br>
 11)Stein's GCD<br>

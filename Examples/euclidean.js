@@ -1,2 +1,2 @@
 var mathlib = require('../lib/cpmath.js');
-console.log(mathlib.sigmoid([1.78]));
+console.log(mathlib.euclidean(34, 68));
