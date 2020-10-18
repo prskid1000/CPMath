@@ -1,6 +1,6 @@
 {
   "name": "cpmath",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "A Modular Mathematics library",
   "repository": {
     "type": "git",
@@ -9,11 +9,11 @@
   "scripts": {
     "relu": "node ./Examples/relu.js",
     "leaky_relu": "node ./Examples/leaky_relu.js",
-    "diphantine": "node ./Examples/diphantine.js",
+    "diophantine": "node ./Examples/diophantine.js",
     "divisor": "node ./Examples/divisor.js",
     "dixon": "node ./Examples/dixon.js",
     "euler_totient": "node ./Examples/euler_totient.js",
-    "extended_euclidean": "node ./Examples/extended_euclidean.js",
+    "euclidean": "node ./Examples/euclidean.js",
     "fibonacci": "node ./Examples/fibonacci.js",
     "karatsuba": "node ./Examples/karatsuba.js",
     "matrix": "node ./Examples/matrix.js",
