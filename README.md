@@ -50,9 +50,6 @@ to take a moment and familiarise with the spirit of opensource.
 
 ## Contributing Guide
 
-If you're have worked on the front-end part make PR to the front-end branch
-and same goes for the back-end too.
-
 ### PR rules:
 - Kindly follow the Pull Request template provided.
 
