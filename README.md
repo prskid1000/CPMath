@@ -28,6 +28,7 @@
 18)PollardRho Factorization<br>
 19)Dixon Factorization<br>
 20)Rencontres Number (Counting partial derangements)<br>
+22)Leornado Number<br>
 21)...more to come<br>
 
 ## NPM Link
