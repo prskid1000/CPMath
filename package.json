@@ -1,6 +1,6 @@
 {
   "name": "cpmath",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A Modular Mathematics library",
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
     "divisor": "node ./Examples/divisor.js",
     "dyck_path": "node ./Examples/dyck_path.js",
     "leonardo": "node ./Examples/leonardo.js",
+    "hosoya": "node ./Examples/hosoya.js",
     "dixon": "node ./Examples/dixon.js",
     "euler_totient": "node ./Examples/euler_totient.js",
     "euclidean": "node ./Examples/euclidean.js",
