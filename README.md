@@ -31,7 +31,13 @@
 22)Leornado Number<br>
 23)Dyck Path(A staircase walk in matrix) Count<br>
 24Hosoya's Traingle<br>
-25)...more to come<br>
+25)Betrothed numbers<br>
+26)Frugal Number<br>
+27)Blum Integer<br>
+28)Lemoine’s Conjecture<br>
+29)Aliquot sum<br>
+30)Fermat’s Last Theorem<br>
+31)...more to come<br>
 
 ## Blog
 https://progwithme.blogspot.com/
