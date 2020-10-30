@@ -29,11 +29,12 @@
 19)Dixon Factorization<br>
 20)Rencontres Number (Counting partial derangements)<br>
 22)Leornado Number<br>
-23)Dyck Path(A staircase walk in matrix) Count
-24)...more to come<br>
+23)Dyck Path(A staircase walk in matrix) Count<br>
+24Hosoya's Traingle<br>
+25)...more to come<br>
 
-## NPM Link
-https://www.npmjs.com/package/cpmath
+## Blog
+https://progwithme.blogspot.com/
 
 ## Getting started
 
