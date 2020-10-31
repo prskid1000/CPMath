@@ -8,36 +8,37 @@
 
 ## Algorithm List
 
-1)Seive<br>
-2)Power with Mod<br>
-3)Get Divisor in sqrt(n)<br>
-4)Matrix Multiplication, Addition and Exponentation<br>
-5)Finding nth Fibonacci in log(n)<br>
-6)Karatsuba Multiplication<br>
-7)Extended Euclidean Algorithm<br>
-8)Diophantine Equation(Initial Solution)<br>
-9)Euler Totient<br>
-10)Zfunction<br>
-11)Stein's GCD<br>
-12)Sigmoid<br>
-13)Softmax<br>
-14)Tanh<br>
-15)ReLU<br>
-16)Leaky ReLU<br>
-17)nCr using Fermat's theorem<br>
-18)PollardRho Factorization<br>
-19)Dixon Factorization<br>
-20)Rencontres Number (Counting partial derangements)<br>
-22)Leornado Number<br>
-23)Dyck Path(A staircase walk in matrix) Count<br>
-24Hosoya's Traingle<br>
-25)Betrothed numbers<br>
-26)Frugal Number<br>
-27)Blum Integer<br>
-28)Lemoine’s Conjecture<br>
-29)Aliquot sum<br>
-30)Fermat’s Last Theorem<br>
-31)...more to come<br>
+- Seive<br>
+- Power with Mod<br>
+- Get Divisor in sqrt(n)<br>
+- Matrix Multiplication, Addition and Exponentation<br>
+- Finding nth Fibonacci in log(n)<br>
+- Karatsuba Multiplication<br>
+- Extended Euclidean Algorithm<br>
+- Diophantine Equation(Initial Solution)<br>
+- Euler Totient<br>
+- Zfunction<br>
+- Stein's GCD<br>
+- Sigmoid<br>
+- Softmax<br>
+- Tanh<br>
+- ReLU<br>
+- Leaky ReLU<br>
+- nCr using Fermat's theorem<br>
+- PollardRho Factorization<br>
+- Dixon Factorization<br>
+- Rencontres Number (Counting partial derangements)<br>
+- Leornado Number<br>
+- Dyck Path(A staircase walk in matrix) Count<br>
+- Hosoya's Traingle<br>
+- Betrothed numbers<br>
+- Frugal Number<br>
+- Blum Integer<br>
+- Lemoine’s Conjecture<br>
+- Aliquot sum<br>
+- Fermat’s Last Theorem<br>
+- K-Jagged Number<br>
+- ...more to come<br>
 
 ## Blog
 https://progwithme.blogspot.com/
