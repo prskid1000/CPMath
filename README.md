@@ -38,6 +38,7 @@
 - Aliquot sum<br>
 - Fermat’s Last Theorem<br>
 - K-Jagged Number<br>
+- Euler’s Four Square Identity<br>
 - ...more to come<br>
 
 ## Blog

@@ -36,6 +36,7 @@
     "aliquot": "node ./Examples/aliquot.js",
     "fermat_last": "node ./Examples/fermat_last.js",
     "jagged": "node ./Examples/jagged.js",
+    "euler_four_square": "node ./Examples/euler_four_square.js",
     "zfunction": "node ./Examples/zfunction.js"
   },
   "author": "Prithwiraj Samanta",
